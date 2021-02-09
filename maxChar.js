@@ -19,7 +19,6 @@ function maxChar(str) {
     }
   });
   for (let char in charMap) {
-    // debugger;
     if (charMap[char] > maxNum) {
       maxNum = charMap[char];
       maxChar = char;
