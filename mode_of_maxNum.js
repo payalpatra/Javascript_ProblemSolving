@@ -5,15 +5,14 @@
 // Explanation ---> Here 3 is the maximum and its number of occurance in the array is 2 .
 
 // SOURCE CODE
-
-function mode_of_maximum(candles) {
-  let tallest_Candle = candles.reduce(function (a, b) {
+function mode_of_maximum(arr) {
+  let largestNumber = arr.reduce(function (a, b) {
     return Math.max(a, b);
   });
-  // Filters out all the tallest candles [3,3]
-  let array_of_tallest_candles = candles.filter(function (candle) {
-    return candle === tallest_Candle;
+  // Filters out all the largest number [3,3]
+  let array_of_largestNumber = arr.filter(function (num) {
+    return num === largestNumber;
   });
-  return array_of_tallest_candles.length;
+  return array_of_largestNumber.length;
 }
 console.log(mode_of_maximum([3, 2, 1, 3]));
