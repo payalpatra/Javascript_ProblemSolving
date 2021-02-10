@@ -4,6 +4,7 @@
 // Output - I Love Javascript
 // Explanation ---> All the initials of each word will be capitalized
 
+// SOURCE CODE
 function capitalizeLetters(str) {
   // ----------- METHOD -1 -------------- //
 
