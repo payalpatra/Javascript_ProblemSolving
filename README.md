@@ -11,3 +11,7 @@
 ### Day 3
 
 - #### [Capitalizing the initials of each word in a Sentence](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/capitalize_initials.js)
+
+### Day 4
+
+- #### [To Check if the input string is a Pallindrome](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/isPallindrome.js)

@@ -1,6 +1,6 @@
 // To Check if the input string is a Pallindrome
 
-// Input Data - "racecar"
+// Input Data - "It is a Pallindrome"
 // Output - true
 // Explanation ---> racecar can be read as racecar both in forward and backward manner
 
