@@ -15,3 +15,7 @@
 ### Day 4
 
 - #### [To Check if the input string is a Pallindrome](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/isPallindrome.js)
+
+### Day 5
+
+- #### [To Reverse an Integer](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/reverseInt.js)
