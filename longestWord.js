@@ -19,6 +19,13 @@ function longestWord(sentence) {
     // --- sorted[0].length will always have the highest length --- //
     return word.length === sorted[0].length;
   });
-  return longestWordArr;
+  // Check if multiple words have the same length
+  if (longestWordArr.length === 1) {
+    // Returns String
+    return longestWordArr[0];
+  } else {
+    // Returns Array
+    return longestWordArr;
+  }
 }
 console.log(longestWord("Hye there, My Name is Payal"));
