@@ -35,3 +35,7 @@
 ### Day 9
 
 - #### [To find out the words having the longest length in a sentence](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/longestWord.js)
+
+### Day 10
+
+- #### [To break an Array into multiple arrays at specified breaking points](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/breakArray.js)
