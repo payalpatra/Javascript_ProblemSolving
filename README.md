@@ -1,41 +1,45 @@
 ## Contents
 
-### Day 1
+### Problem 1
 
 - #### [The character that has highest occurance in a string](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/maxChar.js)
 
-### Day 2
+### Problem 2
 
 - #### [Total Number of times the Largest Number Occured in an Array](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/mode_of_maxNum.js)
 
-### Day 3
+### Problem 3
 
 - #### [Capitalizing the initials of each word in a Sentence](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/capitalize_initials.js)
 
-### Day 4
+### Problem 4
 
 - #### [To Check if the input string is a Pallindrome](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/isPallindrome.js)
 
-### Day 5
+### Problem 5
 
 - #### [To Reverse an Integer](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/reverseInt.js)
 
-### Day 6
+### Problem 6
 
 - #### [To find the maximum and min value in an Array](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/maxMin.js)
 
-### Day 7
+### Problem 7
 
 - #### [To print fizz, Buzz and fizzBuzz according to a given Condition](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/fizzBuzz.js)
 
-### Day 8
+### Problem 8
 
 - #### [To Convert 12-hour AM/PM format to (24-hour) time format](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/timeConversion.js)
 
-### Day 9
+### Problem 9
 
 - #### [To find out the words having the longest length in a sentence](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/longestWord.js)
 
-### Day 10
+### Problem 10
 
 - #### [To break an Array into multiple arrays at specified breaking points](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/breakArray.js)
+
+### Problem 11
+
+- #### [To convert an Array of multiple arrays into a single Array](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/flatArray.js)
