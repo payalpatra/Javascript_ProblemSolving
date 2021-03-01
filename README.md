@@ -43,3 +43,7 @@
 ### Problem 11
 
 - #### [To convert an Array of multiple arrays into a single Array](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/flatArray.js)
+
+### Problem 12
+
+- #### [To Check if the input two strings are Anagrams](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/isAnagram.js)
