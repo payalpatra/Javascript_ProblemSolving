@@ -47,3 +47,7 @@
 ### Problem 12
 
 - #### [To Check if the input two strings are Anagrams](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/isAnagram.js)
+
+### Problem 13
+
+- #### [To round off each number of an array according to given conditionS](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/roundOffArray.js)
