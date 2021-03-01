@@ -51,3 +51,7 @@
 ### Problem 13
 
 - #### [To round off each number of an array according to given conditionS](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/roundOffArray.js)
+
+### Problem 14
+
+- #### [To shift each letter of the input string to its next letter and uppercasing all the vowels](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/shiftLetters.js)

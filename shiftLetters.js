@@ -1,4 +1,4 @@
-// To shift each letter of the input string to its next letter
+// To shift each letter of the input string to its next letter and uppercasing all the vowels
 
 // Input Data - "hello there"
 // Output - "Ifmmp UIfsf"
@@ -6,13 +6,19 @@
 
 // SOURCE CODE
 function shiftToNextAlphabet(string) {
-  let newString = string.replace(/[a-z]/gi, function (currentChar) {
-    if (currentChar === "Z" || currentChar === "Z") {
-      return "a";
-    } else {
-      //   return String.fromCharCode(currentChar.charCodeAt() + 1);
-      return String.fromCharCode(currentChar.charCodeAt() + 1);
-    }
+  // Replacing the all the letter of the string to its next Letter
+  let newString = string
+    .toLowerCase()
+    .replace(/[a-z]/gi, function (currentChar) {
+      if (currentChar === "Z" || currentChar === "Z") {
+        return "a";
+      } else {
+        return String.fromCharCode(currentChar.charCodeAt() + 1);
+      }
+    });
+  // Replacing the vowels of the string to Upper Case
+  newString = newString.replace(/a|e|i|o|u/gi, function (vowel) {
+    return vowel.toUpperCase();
   });
   return newString;
 }
