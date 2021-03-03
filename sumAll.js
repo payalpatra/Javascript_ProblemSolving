@@ -1,4 +1,4 @@
-// To add all the input numbers with no restrictions of passed number of inputs
+// To add all the input numbers with no restrictions on passed number of inputs
 
 // Input Data - 2,5,6,7
 // Output - 20

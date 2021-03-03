@@ -55,3 +55,7 @@
 ### Problem 14
 
 - #### [To shift each letter of the input string to its next letter and uppercasing all the vowels](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/shiftLetters.js)
+
+### Problem 15
+
+- #### [To add all the input numbers with no restrictions on passed number of inputs](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/sumAll.js)
