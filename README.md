@@ -59,3 +59,7 @@
 ### Problem 15
 
 - #### [To add all the input numbers with no restrictions on passed number of inputs](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/sumAll.js)
+
+### Problem 16
+
+- #### [To add all the prime numbers in a given range](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/addAllPrime.js)
