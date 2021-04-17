@@ -21,6 +21,7 @@ function sortByType(array){
     // Sorted array of non-negative numbers
    const sortedArray = arr2.sort((prev , next) => prev-next);
    arr1.forEach((ele,index) => {
+       // Insert -1 at the index 
        sortedArray.splice(arr1[index], 0 , -1)
    });
    return sortedArray;
