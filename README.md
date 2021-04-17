@@ -63,3 +63,7 @@
 ### Problem 16
 
 - #### [To add all the prime numbers in a given range](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/addAllPrime.js)
+
+### Problem 17
+
+- #### [To remove spcific values from the input Array](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/filterArray.js)
