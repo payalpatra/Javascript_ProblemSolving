@@ -71,3 +71,7 @@
 ### Problem 18
 
 - #### [To sort all the non-negative numbers of an array in ascending order ](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/sortByType.js)
+
+### Problem 19
+
+- #### [ To find the missing letter in the letter sequence](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/missingLetter.js)
