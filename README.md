@@ -67,3 +67,7 @@
 ### Problem 17
 
 - #### [To remove spcific values from the input Array](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/filterArray.js)
+
+### Problem 18
+
+- #### [To sort all the non-negative numbers of an array in ascending order ](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/sortByType.js)
