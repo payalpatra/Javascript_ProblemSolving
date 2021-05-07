@@ -79,3 +79,8 @@
 ### Problem 20
 
 - #### [To find the sum of odd and even numbers in an arary](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/evenOddSums.js)
+
+### Problem 21
+
+- #### [To count the frequency of each alphanumeric character in a string ](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/charCount.js)
+
