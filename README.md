@@ -75,3 +75,7 @@
 ### Problem 19
 
 - #### [ To find the missing letter in the letter sequence](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/missingLetter.js)
+
+### Problem 20
+
+- #### [To find the sum of odd and even numbers in an arary](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/evenOddSums.js)
