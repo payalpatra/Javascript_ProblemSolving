@@ -84,3 +84,7 @@
 
 - #### [To count the frequency of each alphanumeric character in a string ](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/charCount.js)
 
+### Problem 22
+
+- #### [To find the indices of two numbers in an array such that they add up to a specific target](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/twoSum.js)
+
