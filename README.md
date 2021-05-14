@@ -88,3 +88,7 @@
 
 - #### [To find the indices of two numbers in an array such that they add up to a specific target](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/twoSum.js)
 
+
+### Problem 23
+
+- #### [To find the sum of nth number in Fibonacci series](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/fibonacci.js)
