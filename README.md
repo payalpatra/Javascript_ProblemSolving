@@ -92,3 +92,9 @@
 ### Problem 23
 
 - #### [To find the sum of nth number in Fibonacci series](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/fibonacci.js)
+
+
+### Problem 24
+
+- #### [To find the longest substring from the input string](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/longestSubstring.js)
+
