@@ -11,10 +11,28 @@ function twoSum(nums, target) {
         if (storage[num] !== undefined) {
             return [storage[num], index]
         }
-        else { 
-            storage[target - num] = index 
+        else {
+            storage[target - num] = index
         };
     }
 }
 
-console.log(twoSum([2, 7, 11, 15], 9));
+// console.log(twoSum([2, 7, 11, 15], 9));
+
+function twoSum2(nums, target) {
+    let map = {}
+    let index = 0;
+    for (let ele of nums) {
+        let value = target - ele
+  
+        if (map[value] !== undefined) {
+            return [map[value], index]
+        } else {
+            map[ele] = index
+        }
+        index++
+    }
+    return map
+}
+
+console.log(twoSum2([2, 7, 11, 15], 9));
