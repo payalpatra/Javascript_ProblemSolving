@@ -98,3 +98,11 @@
 
 - #### [To find the longest substring from the input string](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/longestSubstring.js)
 
+### Problem 25
+
+- #### [To find how far or close the array is from being sorted](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/25_CountInversion.js)
+
+### Problem 26
+
+- #### [To Modify a binary tree to get pre-order traversal using right pointer only](https://github.com/payalpatra/Javascript_ProblemSolving/blob/master/26_modifyBST.js)
+
