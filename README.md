@@ -95,3 +95,6 @@
 
 - #### To Modify a binary tree to get pre-order traversal using right pointer only
 
+### Problem 27
+
+- #### To find the longest common prefix string amongst an array of strings
