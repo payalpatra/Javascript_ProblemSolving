@@ -115,4 +115,16 @@
 
 ### Problem 29
 
-- #### To determine whether an element occurs earlier in the array and whether it occurs later 
+- #### To find whether an element occurs earlier in the array and whether it occurs later 
+
+### Problem 30
+- #### To find the maximum number of elements to remaining in the array when all of the elements are distinct
+
+
+### Problem 31
+- #### To find the HCF of two numbers without recursion
+
+### Problem 32
+- #### To Find the binary equivalent of the decimal number
+
+### Problem 33
