@@ -128,3 +128,9 @@
 - #### To Find the binary equivalent of the decimal number
 
 ### Problem 33
+
+- #### To find the permutation of a string
+
+### Problem 34
+
+- #### To find maximum sum of like time coefficient
