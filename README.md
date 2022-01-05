@@ -134,3 +134,11 @@
 ### Problem 34
 
 - #### To find maximum sum of like time coefficient
+
+### Problem 35 
+
+- #### Find the number of necklace that can be made 
+
+### Problem 36
+
+- #### Add two numbers without using arithmetic operators
